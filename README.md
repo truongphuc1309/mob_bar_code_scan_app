@@ -4,7 +4,7 @@
 ### Kết quả
 
 ### Home screen
-![Home](img1.ppg)
+![Home](img1.png)
 
 ### Scan screen
-![Scan](img2.ppg)
+![Scan](img2.png)
